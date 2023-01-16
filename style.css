@@ -245,3 +245,13 @@ button:hover{
   font-size: 0.9rem;
  }
 }
+
+
+@media (min-width: 1000px){
+  .card-back{
+    margin-top: -100%;
+   }
+  .data-entry{
+    margin-top:17%;
+  }
+}
